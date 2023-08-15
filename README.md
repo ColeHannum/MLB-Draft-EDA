@@ -26,3 +26,10 @@ Looking to get an insight into the overall trends of the MLB Draft seemed logica
 
 <p align = "center">
 <img src = "images/PicksByType.png">
+<\p>Here we see that four year college players are the most drafted population while High School players are following close behind. Junior college players are following far behind. Taking a look at what percentage of these players signed seems like a good next step.
+
+<p align = "center">
+<img src = "images/SigningPercentType.png">
+<\p>Four year college players are the most likely to sign followed by Junior College and High School. This can help explain why more four year college players are drafted as a team has more incentive to draft players that will sign more often. High School players have the option to decline to sign and go to college, so less of them signing makes logical senese. 
+
+
