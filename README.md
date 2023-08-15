@@ -25,4 +25,4 @@
 Looking to get an insight into the overall trends of the MLB Draft seemed logical and a good first step into developing insights about the draft how different factors may play into whether a team drafted a player or not. Some insights can be seen from these graphs
 
 <p align = "center">
-<img src = "desktop/PicksByType.png">
+<img src = "images/PicksByType.png">
