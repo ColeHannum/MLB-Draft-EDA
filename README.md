@@ -3,12 +3,12 @@
 # MLB-Draft-EDA
 
 ## Table of contents
-- [Motivations] (#motivations)
-- [Project Objective] (#project-objective)
-- [Methods Used] (#methods-used)
-- [Technologies] (#technologies)
-- [Project Description] (#project-description)
-- [Project Results] (#project-results)
+- [Motivations](#motivations)
+- [Project Objective](#project-objective)
+- [Methods Used](#methods-used)
+- [Technologies](#technologies)
+- [Project Description](#project-description)
+- [Project Results](#project-results)
 
 ## Motivations
 Baseball has been a passion of mine for as long as I can remember, playing throughout my childhood I had goals of playing in the MLB and was around many others who also had the same goals. Although I won't be in the MLB, I wanted to take a deeper look into the intricacies of the MLB Draft, seeing if there was more than what met the eye.
