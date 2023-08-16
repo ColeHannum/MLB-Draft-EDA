@@ -1,4 +1,5 @@
 <img src="images/MLBDraft.png">
+
 # MLB-Draft-EDA
 
 ## Table of contents
