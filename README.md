@@ -3,8 +3,19 @@
 # MLB-Draft-EDA
 
 ## Table of contents
+- [Motivations] (#motivations)
+- [Project Objective] (#project-objective)
+- [Methods Used] (#methods-used)
+- [Technologies] (#technologies)
+- [Project Description] (#project-description)
+- [Project Results] (#project-results)
+
+## Motivations
+Baseball has been a passion of mine for as long as I can remember, playing throughout my childhood I had goals of playing in the MLB and was around many others who also had the same goals. Although I won't be in the MLB, I wanted to take a deeper look into the intricacies of the MLB Draft, seeing if there was more than what met the eye.
 
 ## Project Objective
+
+The purpose of this project is to observe the overall trends in the MLB Draft during the years 1965-2019, from where were players drafted? What groups of players are more likely to sign than others? How has the money changed over time and what do players make when they are drafted? What factors play into players getting a higher signing bonus? These overarching questions led the focus of this project.
 
 
 ## Methods Used
@@ -18,9 +29,9 @@
 + Matplotlib
 + Seaborn
 + re
-+ plotly express
-+ plotly graph objects
-+ geopandas
++ Plotly express
++ Plotly graph objects
++ Geopandas
 
 ## Project Description
 + The dataset was found on Kaggle and was first acquired using the PyBaseball repository in Python.
@@ -45,14 +56,14 @@ Here we see that four year college players are the most drafted population while
 </p>
 
 
-Four year college players are the most likely to sign followed by Junior College and High School. This can help explain why more four year college players are drafted as a team has more incentive to draft players that will sign more often. High School players have the option to decline to sign and go to college, so less of them signing makes logical senese. 
+Four-year college players are the most likely to sign followed by junior college and high school players. This can help explain why more four year college players are drafted as a team has more incentive to draft players that will sign more often. High school players have the option to decline to sign and go to college, so less of them signing makes logical senese. 
 
 <p align = "center">
 <img src = "images/MeanBonusType.png" style>
 </p>
 
 
-However, High School players get the largest mean bonus out of all of the types of players drafted, showing the extra incentive that these players need in order to skip college and jump straight into a professinoal career.
+However, high school players get the largest mean bonus out of all of the types of players drafted, showing the extra incentive that these players need in order to skip college and jump straight into a professional career.
 
 <p align = "center">
 <img src = "images/PicksByState.png" style>
@@ -100,7 +111,7 @@ These spikes in bonus amount is not just due to inflation, as seen in the plot b
 <img src = "images/InflationBonus.png" style>
 </p>
 
-
+For further insights and a look into the cleaning portion of this project, please take a look at the jupyter notebook.
 
 
 
