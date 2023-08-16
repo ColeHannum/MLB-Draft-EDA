@@ -9,6 +9,7 @@
 - [Technologies](#technologies)
 - [Project Description](#project-description)
 - [Project Results](#project-results)
+- [Data Used](#data-used)
 
 ## Motivations
 Baseball has been a passion of mine for as long as I can remember, playing throughout my childhood I had goals of playing in the MLB and was around many others who also had the same goals. Although I won't be in the MLB, I wanted to take a deeper look into the intricacies of the MLB Draft, seeing if there was more than what met the eye.
@@ -113,6 +114,10 @@ These spikes in bonus amount is not just due to inflation, as seen in the plot b
 
 For further insights and a look into the cleaning portion of this project, please take a look at the jupyter notebook.
 
+## Data Used
++ [MLB Draft Kaggle Dataset used](https://www.kaggle.com/code/footballjoe789/pybaseballrepository/output)
++ [Inflation Dataset used](https://stats.oecd.org/index.aspx?DataSetCode=PRICES_CPI#)
++ [Census Population Dataset](https://www.census.gov/newsroom/press-kits/2019/national-state-estimates.html)
 
 
 
