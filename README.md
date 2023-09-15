@@ -8,8 +8,10 @@
 - [Methods Used](#methods-used)
 - [Technologies](#technologies)
 - [Project Description](#project-description)
-- [Project Results](#project-results)
+- [Project Results and General Insights](#project-results-and-general-insights)
 - [Data Used](#data-used)
+- [General Insights](#general-insights)
+
 
 ## Motivations
 Baseball has been a passion of mine for as long as I can remember, playing throughout my childhood I had goals of playing in the MLB and was around many others who also had the same goals. Although I won't be in the MLB, I wanted to take a deeper look into the intricacies of the MLB Draft, seeing if there was more than what met the eye.
@@ -40,7 +42,7 @@ The purpose of this project is to observe the overall trends in the MLB Draft du
 + There was one added column that included the state/region of the player drafted
 + We then sought to draw insights about the trends of the MLB Draft through data manipulation and data visualization
 
-## Project Results
+## Project Results and General Insights
 
 Looking to get an insight into the overall trends of the MLB Draft seemed logical and a good first step into developing insights about the draft how different factors may play into whether a team drafted a player or not. Some insights can be seen from these graphs
 
@@ -112,7 +114,7 @@ These spikes in bonus amount is not just due to inflation, as seen in the plot b
 <img src = "images/InflationBonus.png" style>
 </p>
 
-For further insights and a look into the cleaning portion of this project, please take a look at the jupyter notebook.
+Please take a look at the jupyter notebook to see further insights
 
 ## Data Used
 + [MLB Draft Kaggle Dataset used](https://www.kaggle.com/code/footballjoe789/pybaseballrepository/output)
